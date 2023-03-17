@@ -1,1 +1,1 @@
-fileB
+fileB.another change
